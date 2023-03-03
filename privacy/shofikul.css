@@ -1,0 +1,68 @@
+/* Basic reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Header styles */
+header {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav li {
+  margin-right: 1em;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Main styles */
+main {
+  max-width: 800px;
+  margin: 2em auto;
+  padding: 0 2em;
+  color: #fff;
+  background-color: #222;
+}
+
+section {
+  margin-bottom: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  padding: 1em;
+  text-align: center;
+}
+
+footer p {
+  color: #fff;
+}
