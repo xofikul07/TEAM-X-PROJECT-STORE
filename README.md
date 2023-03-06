@@ -4,4 +4,4 @@
 
 <h1>Copyright Notice</h1>
 <h3>Don't Copy Our Tools Or Any Code. Copying someone else's project without permission is a legally punishable offence. Violation of copyright notices may subject you to jail or fines.</h3>
-<h1>For Bangla </h1>
+
